@@ -1,2 +1,2 @@
-# -
-연습이나 할 겸
+# predict samsung stock
+
